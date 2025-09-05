@@ -1,0 +1,14 @@
+{
+  "name": "express_exemple",
+  "version": "1.0.0",
+  "description": "An express.js api exemple",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node index.js"
+  },
+  "author": "Gabriel Trindade",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
